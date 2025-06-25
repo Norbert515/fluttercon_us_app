@@ -60,19 +60,6 @@ class SpeakerCard extends StatelessWidget {
                           maxLines: 2,
                           overflow: TextOverflow.ellipsis,
                         ),
-
-                      // Top Speaker Badge
-                      if (speaker.isTopSpeaker && false) ...[
-                        const SizedBox(height: 4),
-                        Container(
-                          padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
-                          decoration: BoxDecoration(color: Colors.orange, borderRadius: BorderRadius.circular(12)),
-                          child: Text(
-                            'Top Speaker',
-                            style: Theme.of(context).textTheme.labelSmall?.copyWith(color: Colors.white),
-                          ),
-                        ),
-                      ],
                     ],
                   ),
                 ),
