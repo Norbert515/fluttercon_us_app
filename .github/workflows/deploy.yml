@@ -33,29 +33,25 @@ jobs:
           distribution: "zulu"
           java-version: "17"
 
-      - name: Setup FVM
-        uses: kuhnroyal/flutter-fvm-config-action@v2
+      - name: Setup Flutter
+        uses: subosito/flutter-action@v2
         with:
+          flutter-version: "3.27.0"
+          channel: "stable"
           cache: true
 
-      - name: Install Flutter using FVM
-        run: |
-          dart pub global activate fvm
-          fvm install
-          fvm use --force
-
       - name: Get Flutter dependencies
-        run: fvm flutter pub get
+        run: flutter pub get
 
       - name: Analyze Flutter code
-        run: fvm flutter analyze
+        run: flutter analyze
 
       - name: Run Flutter tests
-        run: fvm flutter test
+        run: flutter test
 
       - name: Build Flutter web
         run: |
-          fvm flutter build web --release --web-renderer html --base-href "/fluttercon_app/"
+          flutter build web --release --web-renderer html --base-href "/fluttercon_app/"
 
       - name: Upload build artifacts
         uses: actions/upload-pages-artifact@v3

@@ -30,8 +30,8 @@ The workflow will automatically trigger when you:
 The deployment process includes:
 
 - **Code checkout** and repository setup
-- **FVM setup** for consistent Flutter version (3.27.0)
-- **Dependency installation** using `fvm flutter pub get`
+- **Flutter setup** using Flutter 3.27.0 stable channel
+- **Dependency installation** using `flutter pub get`
 - **Code analysis** to check for issues
 - **Test execution** to ensure quality
 - **Web build** with proper base href for GitHub Pages
@@ -46,9 +46,27 @@ https://<your-username>.github.io/fluttercon_app/
 
 Replace `<your-username>` with your actual GitHub username.
 
-## 🛠️ Local Development with FVM
+## 🛠️ Local Development
 
-To maintain version consistency, use FVM for local development:
+### Option 1: Standard Flutter (Recommended for deployment consistency)
+
+```bash
+# Ensure you have Flutter 3.27.0 installed
+flutter --version
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run -d chrome
+
+# Build for web
+flutter build web
+```
+
+### Option 2: Using FVM (Optional)
+
+If you prefer to use FVM for version management:
 
 ```bash
 # Install FVM globally
@@ -71,7 +89,7 @@ fvm flutter build web
 The workflow is configured in `.github/workflows/deploy.yml` and includes:
 
 - **Triggers**: Push to main, PR to main, manual dispatch
-- **Flutter Version**: Managed by FVM (see `.fvmrc`)
+- **Flutter Version**: Locked to 3.27.0 stable channel
 - **Base Href**: Configured for GitHub Pages subdirectory
 - **Web Renderer**: HTML renderer for better compatibility
 - **Caching**: Dependencies and Flutter SDK are cached for faster builds
@@ -97,7 +115,7 @@ You can monitor deployment status:
 ### Build Failures
 - Check the Actions logs for specific error messages
 - Ensure all tests pass locally before pushing
-- Verify FVM configuration is correct
+- Verify Flutter version compatibility (3.27.0 recommended)
 
 ### Assets Not Loading
 - Ensure assets are properly declared in `pubspec.yaml`

@@ -18,7 +18,7 @@ Visit the live app: `https://<your-username>.github.io/fluttercon_app/`
 ## 🛠️ Development Setup
 
 ### Prerequisites
-- Flutter SDK (managed via FVM)
+- Flutter SDK 3.27.0 or later
 - Dart SDK
 - Web browser for testing
 
@@ -30,25 +30,26 @@ Visit the live app: `https://<your-username>.github.io/fluttercon_app/`
    cd fluttercon_app
    ```
 
-2. **Setup FVM (recommended)**
+2. **Install dependencies**
+   ```bash
+   flutter pub get
+   ```
+
+3. **Run the app**
+   ```bash
+   # For web
+   flutter run -d chrome
+   
+   # For mobile (with simulator/device connected)
+   flutter run
+   ```
+
+4. **Optional: Use FVM for version management**
    ```bash
    dart pub global activate fvm
    fvm install
    fvm use
-   ```
-
-3. **Install dependencies**
-   ```bash
-   fvm flutter pub get
-   ```
-
-4. **Run the app**
-   ```bash
-   # For web
-   fvm flutter run -d chrome
-   
-   # For mobile (with simulator/device connected)
-   fvm flutter run
+   # Then use 'fvm flutter' instead of 'flutter'
    ```
 
 ## 🏗️ Architecture
