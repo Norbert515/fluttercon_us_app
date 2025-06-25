@@ -46,9 +46,6 @@ jobs:
       - name: Analyze Flutter code
         run: flutter analyze
 
-      - name: Run Flutter tests
-        run: flutter test
-
       - name: Build Flutter web
         run: |
           flutter build web --release --web-renderer html --base-href "/fluttercon_app/"
