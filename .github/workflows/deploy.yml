@@ -48,7 +48,7 @@ jobs:
 
       - name: Build Flutter web
         run: |
-          flutter build web --release --web-renderer html --base-href "/fluttercon_app/"
+          flutter build web --release
 
       - name: Upload build artifacts
         uses: actions/upload-pages-artifact@v3
