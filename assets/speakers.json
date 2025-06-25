@@ -1,0 +1,1889 @@
+[
+  {
+    "id": "08f6636e-3420-4635-9eaf-520730226c7f",
+    "firstName": "Ahmed",
+    "lastName": "Hamdan",
+    "fullName": "Ahmed Hamdan",
+    "bio": "Ahmed Hamdan is the Flutter Platforms Lead at MaibornWolff, where he shapes the future of Flutter within the company and beyond. He leads the development of innovative solutions, including the Remote Control Parking feature for the MyBMW app, while cultivating a collaborative and forward-thinking environment for his team.\r\n\r\nWith a deep passion for Flutter, which he has specialized in since 2017, Ahmed is a recognized expert who frequently shares his insights with global audiences through tech talks. As the leader of Flutter Valencia, he is equally committed to building a thriving community where developers can connect, learn, and grow together.",
+    "tagLine": "Flutter Platforms Lead at MaibornWolff || Community Lead of Flutter Valencia",
+    "profilePicture": "https://sessionize.com/image/2771-400o400o1-wxJHAgFWS4GPfUxQsKuKoX.jpg",
+    "sessions": [
+      {
+        "id": 881851,
+        "name": "Multi-Radio Flutter: Architecting Apps with UWB, BLE, and Beyond"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://twitter.com/AhmedJHamdan",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/ahmed-hamdan/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "cca2e096-1e83-4828-9f54-83269a2ea670",
+    "firstName": "Aloïs",
+    "lastName": "Deniel",
+    "fullName": "Aloïs Deniel",
+    "bio": "With a multifaceted background in cross-platform mobile technologies, It's been many years since I've started using the famous Google technologies: Flutter. My career began at Orange, where I spent several years as a technical leader, spearheading projects and innovations in mobile development. \r\n \r\nTransitioning to freelancing, I have dedicated the past six years to mastering and innovating with Flutter technologies. This dedication has led to my recognition as a Google Developer Expert on Flutter and Dart technologies. \r\n \r\nBeyond my technical abilities, I am deeply passionate about open-source projects and sharing with the tech community. \r\n \r\nCurrently, I am channeling my expertise and creativity into the development of the ClickUp mobile application!",
+    "tagLine": "Google Developer Expert, Staff engineer @Clickup",
+    "profilePicture": "https://sessionize.com/image/f048-400o400o1-WrDjAYtt4fVu95tQmcX7AX.jpg",
+    "sessions": [
+      {
+        "id": 920006,
+        "name": "From Vectors to Pixels: mastering images"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://x.com/aloisdeniel",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/alo%C3%AFs-deniel-25614b79/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "1ca6e20c-87bc-40d0-889d-878bb114a7ca",
+    "firstName": "Andrew",
+    "lastName": "Brogdon",
+    "fullName": "Andrew Brogdon",
+    "bio": "In addition to being a Buckeye alum, published poet, and registered ginger, Andrew leads the developer relations team for Dart and Flutter at Google.",
+    "tagLine": "Developer Programs Engineer @ Google",
+    "profilePicture": "https://sessionize.com/image/e98f-400o400o1-Bkh7YCiNVphNn84iHvy6zz.jpg",
+    "sessions": [
+      {
+        "id": 901286,
+        "name": "Agentive Experiences With Flutter: What, How, and Why Bother? "
+      },
+      {
+        "id": 920950,
+        "name": "Flutter Team Q&A"
+      }
+    ],
+    "isTopSpeaker": true,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://twitter.com/redbrogdon",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://linkedin.com/in/redbrogdon",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "250319be-69a2-448c-afa1-7dcd35d9dcf6",
+    "firstName": "Andrew",
+    "lastName": "Peynado",
+    "fullName": "Andrew Peynado",
+    "bio": "Andrew is a product manager on the Firebase team at Google. He is passionate about building products that inspire and empower developers to express their creativity and solve meaningful problems. He has a bachelor's degree in Computer Science from the University of Waterloo and an MBA from UC Berkeley's Haas School of Business. ",
+    "tagLine": "Product Manager @ Firebase",
+    "profilePicture": "https://sessionize.com/image/01cd-400o400o1-XeZAPz9im67Cp7SGaPdcSt.jpg",
+    "sessions": [
+      {
+        "id": 919396,
+        "name": "Enhance the customer experience with Gemini, Flutter, and Firebase"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/andrewpeynado/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "b62269e8-842a-436a-a3c4-e9b9cfce7514",
+    "firstName": "Angjelko",
+    "lastName": "Miloshevski",
+    "fullName": "Angjelko Miloshevski",
+    "bio": "Specialized in full-stack development, mobile engineering, and particularly the Flutter framework. My expertise spans across both frontend and backend development, using technologies like JavaScript and PHP, while also managing relational databases and cloud services. My experience with AWS services, including EC2, Serverless Aurora, and S3, has been crucial in maintaining and scaling complex systems.\r\n\r\nIn mobile development, I have focused on leveraging the Flutter framework to create cross-platform applications that provide a seamless user experience across iOS and Android. My work includes developing native plugins to enhance app functionality and user engagement, ensuring the applications are robust and user-friendly.\r\n\r\nI have led major migrations and upgrades, significantly improving the performance, reliability, and maintainability of codebases. These efforts included transitioning large codebases to modern technologies and frameworks, optimizing database systems, and enhancing overall software architecture.\r\n\r\nMy leadership roles have encompassed project discovery, planning, and delivery. I have been responsible for implementing new features, refining existing ones, and making critical decisions about project direction. My ability to write detailed specifications and collaborate closely with design and product teams has resulted in more efficient and effective development processes.\r\n\r\nI have enhanced our applications data tracking systems, integrating advanced analytics tools, and ensuring data accuracy and reliability. Optimizing CI/CD pipelines and deployment processes has streamlined development workflow, leading to faster and more reliable releases.\r\n\r\nBeyond my technical contributions, I am passionate about fostering a positive and collaborative work environment. I facilitate team meetings, retrospectives, and standups, promoting transparency and open communication. I enjoy bringing the team together through various activities, making the workplace enjoyable and productive.\r\n\r\nI am continuously learning and exploring new technologies, tools, and frameworks to improve end products. My goal is to provide optimized, scalable, and resilient solutions that align with both business and product needs, balancing user and business requirements.\r\n\r\nIn summary, my extensive experience in software engineering, combined with my leadership and project management skills, enables me to deliver high-quality solutions and drive successful outcomes. I am dedicated to continuous improvement and am always eager to support my colleagues and contribute to the team's success.",
+    "tagLine": "Senior Software Engineer",
+    "profilePicture": "https://sessionize.com/image/1eb3-400o400o1-wkQUVqinZmpW9hMnchwYsu.jpg",
+    "sessions": [
+      {
+        "id": 920312,
+        "name": "The Sacred Scrolls: Crafting Your Own Slivers"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://twitter.com/angjelkom_",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/angjelkom",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "5db7ac98-1c4d-4837-9ce0-4138c4f68441",
+    "firstName": "Aniket",
+    "lastName": "Bhosale",
+    "fullName": "Aniket Bhosale",
+    "bio": "4 years of Flutter developer experience\r\n",
+    "tagLine": "Software Developer - Allthenticate",
+    "profilePicture": "https://sessionize.com/image/ab1e-400o400o1-prDcRgrNoKKJP4UiE3Nsev.jpg",
+    "sessions": [
+      {
+        "id": 920323,
+        "name": "Mastering Dart Isolates: Custom Entrypoints for Smarter Background Processing"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/aniket15b",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "55d6455c-c584-4e86-917b-a8981a108d66",
+    "firstName": "Anthony",
+    "lastName": "Prakash",
+    "fullName": "Anthony Prakash",
+    "bio": "Been working with the Flutter and Dart Community since 2019.  Started the Flutter Silicon Valley Community and work closely with communities around the world to collaborate on events and sessions.",
+    "tagLine": "Flutter Silicon Valley - Lead Organizer",
+    "profilePicture": "https://sessionize.com/image/7611-400o400o1-EuYHm5xYaA6kBUQhoyz1z9.png",
+    "sessions": [
+      {
+        "id": 893741,
+        "name": "Emerging Trends and the Future of Flutter"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://twitter.com/anthonyvprakash",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/anthony-prakash/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "be017795-f2ec-41c5-92d2-beb8727f921a",
+    "firstName": "Bettina",
+    "lastName": "Carrizo",
+    "fullName": "Bettina Carrizo",
+    "bio": "I'm a Software Engineer from Montevideo, Uruguay, passionate about building thoughtful mobile experiences and empowering the dev community. \r\n\r\nI work as a TAM in application security while staying rooted in Flutter development, sharing my learnings through talks at events like FlutterConf LATAM and FlutterCon EU. \r\n\r\nIn 2025, I became the first woman Flutter & Dart GDE in LATAM, and at present, the only active one across the Americas. \r\n\r\nAs a Women Techmakers Ambassador and co-organizer of FlutterConf LATAM, I love bringing people together to grow and learn. \r\n\r\nWhen I’m not coding, you’ll find me out walking with my dog or diving into personal growth content.",
+    "tagLine": "TAM at Lugapel AppSec | Flutter & Dart GDE| WTM Ambassador",
+    "profilePicture": "https://sessionize.com/image/eb6c-400o400o1-Uz75qs4uhzJ2gzL4R6W566.png",
+    "sessions": [
+      {
+        "id": 919727,
+        "name": "Flutteristas: Reimagining DEI"
+      },
+      {
+        "id": 917532,
+        "name": "Getting into Context: The Essential Guide to BuildContext in Flutter"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://twitter.com/3ettilina",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/bettina-carrizo/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "2cb5fc8b-7340-41ff-9fc0-f022c160077a",
+    "firstName": "Brian",
+    "lastName": "Adams",
+    "fullName": "Brian Adams",
+    "bio": "Brian Adams is a Lead Software Engineer and Manager at Fundrise, with over 8 years of experience in Android development and team leadership. Brian has a strong background in technical leadership, balancing product and engineering needs, improving testing efficiency, and mentoring developers. He is passionate about fostering high-impact, data-driven teams that drive informed decision-making and continuous improvement.",
+    "tagLine": "Lead Software Engineer at Fundrise",
+    "profilePicture": "https://sessionize.com/image/09b2-400o400o1-J8XuR5tryjK1U4CaM2dpBn.jpg",
+    "sessions": [
+      {
+        "id": 929305,
+        "name": "Metrics, KPIs, and Developer Experience: Rethinking Measurement for High-Performing Teams"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/brian-adams-android-engineer/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "2478d0f4-734d-4294-980f-75799423067f",
+    "firstName": "Chris",
+    "lastName": "Sells",
+    "fullName": "Chris Sells",
+    "bio": "Chris Sells is an independent consultant focused on applied AI and developer tools and ecosystems. He enjoys long walks on the beach and various technologies.\r\nChris Sells has been a software engineer of one kind or another since he was 14 years old. He's worked at Intel, Microsoft, Google and Meta, has started his own companies, has written a dozen books, given countless conference talks and has done everything from QA to developer, consultant to VP, technical support to CTO, chief architect to conference organizer.",
+    "tagLine": "Flutter fanatic",
+    "profilePicture": "https://sessionize.com/image/fbd4-400o400o1-fyMyjci9fhf7oZYC3wey9w.png",
+    "sessions": [
+      {
+        "id": 862814,
+        "name": "More Flutter and Dart and AI, Oh My!"
+      },
+      {
+        "id": 893742,
+        "name": "Contributing to the Flutter Ecosystem: Open Source & Community Growth"
+      },
+      {
+        "id": 862826,
+        "name": "Flutter: The Last UI Framework"
+      },
+      {
+        "id": 959958,
+        "name": "Flutter and AI Roundtable"
+      }
+    ],
+    "isTopSpeaker": true,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://x.com/csells",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/csells",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "6fcb1aa5-ac74-4fa1-ba5f-82837a4e17de",
+    "firstName": "Chuck",
+    "lastName": "Greb",
+    "fullName": "Chuck Greb",
+    "bio": "Mission-driven software engineering leader. Community organizer. Trail runner.",
+    "tagLine": "Director of Engineering, GDG Organizer",
+    "profilePicture": "https://sessionize.com/image/10d7-400o400o1-GdKSjLnFS3sqT2Y9qD3yVa.png",
+    "sessions": [
+      {
+        "id": 929306,
+        "name": "Building a Strong Engineering Culture"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/ecgreb/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "40cdc8eb-babe-43ee-bc55-84607c58268c",
+    "firstName": "Clint",
+    "lastName": "Purser",
+    "fullName": "Clint Purser",
+    "bio": "Lead Mobile Engineer at Viam in NYC, specializing in Flutter, WebRTC, and mobile applications for robotics & IoT. Organizer for Flutter NYC, Originally from Utah.",
+    "tagLine": "Lead Mobile Engineer at Viam, Flutter NYC Organizer",
+    "profilePicture": "https://sessionize.com/image/8625-400o400o1-7d5tZKHaZC8Pg1yy6ziMa5.png",
+    "sessions": [
+      {
+        "id": 920422,
+        "name": "Remote Controlling Robots with Flutter & WebRTC"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://x.com/clintpurser",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/clint-p-90a68010a/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "8d4c574e-0d5f-4382-b32c-43a47c5dabdd",
+    "firstName": "Clinton",
+    "lastName": "Teegarden",
+    "fullName": "Clinton Teegarden",
+    "bio": "Distinguished Engineer at Capital One with a focus on core platforms and the developer experience.",
+    "tagLine": "Distinguished Engineer| Capital One",
+    "profilePicture": "https://sessionize.com/image/9de9-400o400o1-wYfunMsHAHwoooXpe6dPqP.jpg",
+    "sessions": [
+      {
+        "id": 929310,
+        "name": "The DX Factor: From Developer Experience to Business Value"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/clinton-teegarden/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "c1e95623-0c26-4e92-af69-d83d1efb0b9b",
+    "firstName": "Danielle",
+    "lastName": "Cox",
+    "fullName": "Danielle Cox",
+    "bio": "Danielle has been programming since she bought her first Commodore Vic-20 back in the early 80's.   A proud graduate of the University of Oklahoma, she currently leads a team of Flutter developers working on a web based application helping consumers purchase/refinance mortgages for the startup, Ardley.",
+    "tagLine": "Flutter Lead for Ardley",
+    "profilePicture": "https://sessionize.com/image/e957-400o400o1-7ofgBqGqSNSs4qBqaSW7bH.png",
+    "sessions": [
+      {
+        "id": 919824,
+        "name": "Beyond json_serializable: Modern JSON Handling in a Macro-less Flutter Era"
+      },
+      {
+        "id": 919727,
+        "name": "Flutteristas: Reimagining DEI"
+      },
+      {
+        "id": 919809,
+        "name": "Bringing a Legend to Life: Reimagining Rogue in Flutter"
+      }
+    ],
+    "isTopSpeaker": true,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://twitter.com/imafiguresk8r",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/flutterfly/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "bf35eddb-4594-48f3-9c40-14bfb88d7496",
+    "firstName": "David",
+    "lastName": "DeRemer",
+    "fullName": "David DeRemer",
+    "bio": "David is the Founder and CEO of Very Good Ventures, one of the most influential companies in the Flutter ecosystem. David has over a decade of experience as an executive leader of digital product design and software engineering consultancies. In prior roles, David has focused on innovation, technology, design, and strategy in roles at frog design, Chobani, and Accenture. He has a business degree from the Wharton Business School and a Systems Engineering degree from the University of Pennsylvania.",
+    "tagLine": "Founder & CEO, Very Good Ventures",
+    "profilePicture": "https://sessionize.com/image/b89f-400o400o1-GPSMX8nY69hoEr1RGh5AQR.jpg",
+    "sessions": [
+      {
+        "id": 924416,
+        "name": "Adopting Flutter at Scale: Challenges, Wins, and the Road Ahead at Universal"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://twitter.com/deremer",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/davidderemer/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "d7fb4ffb-dcda-4e22-99c0-a6392b523479",
+    "firstName": "Eric",
+    "lastName": "Maxwell",
+    "fullName": "Eric Maxwell",
+    "bio": "Eric is an engineer on the Android Foundation team at Square, where he helps scale mobile development by providing architecture, guidance, and tooling to support teams across the company.\r\n\r\nWith nearly two decades in the software industry—most of it spent building Android apps—Eric has navigated the evolution of the platform firsthand. He’s passionate about designing systems that empower developers, reduce friction, and keep teams productive at scale.\r\n\r\nWhen he’s not writing code or solving engineering challenges, you’ll find him spending time with his wife and two daughters.",
+    "tagLine": "Foundation Engineer at Square",
+    "profilePicture": "https://sessionize.com/image/e615-400o400o1-sY7t38TmqP5sFHEX4DLB3p.jpg",
+    "sessions": [
+      {
+        "id": 929317,
+        "name": "From Startup to Scale: The Engineering Playbook for Growing Android Teams"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "c778efd4-fbcb-4735-a28b-a8eb2eb45bf8",
+    "firstName": "Eric",
+    "lastName": "Windmill",
+    "fullName": "Eric Windmill",
+    "bio": "I'm a Developer Relations Engineer at Google on the Flutter and Dart teams",
+    "tagLine": "Dart and Flutter at Google",
+    "profilePicture": "https://sessionize.com/image/3627-400o400o1-NqieALAPzSL8h1bkYdamG7.png",
+    "sessions": [
+      {
+        "id": 920950,
+        "name": "Flutter Team Q&A"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://twitter.com/ericwindmill",
+        "linkType": "Twitter"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "3f043746-c090-4bc4-852e-986c2cdab9b1",
+    "firstName": "Frank",
+    "lastName": "van Puffelen",
+    "fullName": "Frank van Puffelen",
+    "bio": "Frank (or puf) is a well known Firebase and Flutter expert, and multi-time Google I/O speaker and international keynote speaker.",
+    "tagLine": "DevRel at FlutterFlow",
+    "profilePicture": "https://sessionize.com/image/8e90-400o400o1-SnyZ1W8iD9Xh1RTuTacxJm.jpg",
+    "sessions": [
+      {
+        "id": 910840,
+        "name": "Vibing Flutter"
+      }
+    ],
+    "isTopSpeaker": true,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://twitter.com/puf",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://linkedin.com/in/puf",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "cb355dad-c2b3-47fc-a2c2-a3d7a279daed",
+    "firstName": "Fré",
+    "lastName": "Dumazy",
+    "fullName": "Fré Dumazy",
+    "bio": "I'm a software engineer focussing on Flutter and app development in general",
+    "tagLine": " Freelance Flutter Developer",
+    "profilePicture": "https://sessionize.com/image/9bc8-400o400o1-rsx6dFRRNkKQ7eiWKF9G4G.jpg",
+    "sessions": [
+      {
+        "id": 920223,
+        "name": "From Mobile to Web: Reusing Flutter via Multi-View Embedding"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://twitter.com/FresidentDumazy",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/dumazy/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "6e3dc868-7380-4060-b6d1-018c27e34d47",
+    "firstName": "Gianfranco",
+    "lastName": "Papa",
+    "fullName": "Gianfranco Papa",
+    "bio": "I’m a Flutter Developer, Passionate Software Engineer, and Football Fanatic in my spare time. I’m CTO & Co-Founder of Somnio Software, a 100% specialized Flutter Company based in Uruguay. \r\n\r\nI’m really passionate about technology in general but Flutter & Dart are my top choices. I’ve focused on becoming an expert in these technologies to have the best tools to help our partners with their projects!\r\n\r\nI’m also co-organizer of Flutter Uruguay Meetup to help grow the community of this tech both in our country and also in the world. This group has helped me unite with other developers and Flutter fanatics to exchange experiences and ideas!",
+    "tagLine": "CTO & Co-Founder of Somnio Software",
+    "profilePicture": "https://sessionize.com/image/47cd-400o400o1-paiLqEsBhPSb7iBSwLTYCK.png",
+    "sessions": [
+      {
+        "id": 920332,
+        "name": "Empowering Your Flutter Apps with AI: Gemini, Vertex, and Beyond"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://twitter.com/papa_gianfranco",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/gianfranco-papa/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "8b688ff5-7c85-4d00-ae1d-09c9024134c1",
+    "firstName": "Greg",
+    "lastName": "Price",
+    "fullName": "Greg Price",
+    "bio": "Open-source maintainer and developer.  Zulip maintainer since 2017; Flutter developer since 2022; upstream Flutter committer since 2023.  Previously mypy, Dropbox, Ksplice.\r\n\r\nGreg started as a grad student writing theorems, then decided to write code instead, but is secretly still a mathematician: he strives to write code that communicates not only to the computer but to the human reader, and is clear and easy to reason about even when the task is complex.\r\n",
+    "tagLine": "Tech Lead / Manager, Mobile at Zulip",
+    "profilePicture": "https://sessionize.com/image/ec0b-400o400o1-3g72jj3ZGLdxzJzyZ1LrMm.jpg",
+    "sessions": [
+      {
+        "id": 920391,
+        "name": "Writing better tests with less work"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/greg-price-09898814/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "9e4f240e-a68f-4c81-b97b-c5d9dc4a9cf8",
+    "firstName": "James",
+    "lastName": "O'Reilly",
+    "fullName": "James O'Reilly",
+    "bio": "Engaging developers at scale and making it easy for developers to build high quality apps.",
+    "tagLine": "DevRel Firebase Studio",
+    "profilePicture": "https://sessionize.com/image/a24c-400o400o1-DuVA33ZD9BTGRskjootT9i.jpg",
+    "sessions": [
+      {
+        "id": 921247,
+        "name": "Firebase Studio: AI-Powered Flutter Development"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://x.com/JamesOR",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/jamesor/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "92605db5-d6c6-4c15-a31a-06abfd31c391",
+    "firstName": "Jeff",
+    "lastName": "Ward",
+    "fullName": "Jeff Ward",
+    "bio": "Jeff is a former game developer, mobile engineer, and manager who now specializes in doing fun things with Dart and Flutter, including personal projects embedding Dart into game engines.  At Datadog, he leads the development of the Datadog Flutter SDK.",
+    "tagLine": "Senior Software Engineer, Datadog",
+    "profilePicture": "https://sessionize.com/image/1589-400o400o1-Mq3e5hdSvwK2r1tyyYTPbe.jpg",
+    "sessions": [
+      {
+        "id": 901884,
+        "name": "Binding Native Plugins with Flutter and Dart"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/fuzzybinary/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "3d1ac391-e198-4d06-973b-f216cad3c390",
+    "firstName": "Jesse",
+    "lastName": "Ezell",
+    "fullName": "Jesse Ezell",
+    "bio": "Jesse Ezell has been a full stack developer since the full stack was assembly language. An active member of the Flutter community, he has contributed to the LiveKit Flutter SDK, Flutter WebRTC, SuperEditor, Quill, many essential Flutter packages, and some fixes for pesky Flutter web engine bugs. Currently Jesse runs an AI startup and spends his days, nights, and weekends helping customers build and deploy and scale AI agents.",
+    "tagLine": "Cofounder and CTO of Timu",
+    "profilePicture": "https://sessionize.com/image/7fad-400o400o1-fa7qyeP8Zn7pEehKChCdiQ.png",
+    "sessions": [
+      {
+        "id": 959931,
+        "name": "Beyond Chatbots:Building Cross-Platform, Multi-Modal Collaborative Agents with Flutter"
+      },
+      {
+        "id": 959958,
+        "name": "Flutter and AI Roundtable"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://x.com/jezell",
+        "linkType": "Twitter"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "dbbcf08a-2900-470a-a94f-8d7effbced4c",
+    "firstName": "Jhin",
+    "lastName": "Lee",
+    "fullName": "Jhin Lee",
+    "bio": "A seasoned Software Developer with a passion for Flutter and Agile development. With over two decades of hands-on experience, I bring a wealth of expertise to every project, creating dynamic and efficient solutions at the intersection of technology and creativity.",
+    "tagLine": "GDE Flutter, Dart | GDG & Flutter Montreal Organizer | Full-Stack Developer @Unity",
+    "profilePicture": "https://sessionize.com/image/f463-400o400o1-wN2Ggg8G4T7BVdpRHVuYbi.png",
+    "sessions": [
+      {
+        "id": 912005,
+        "name": "The AI Frontier: Empowering Dart & Flutter with the Model Context Protocol"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://twitter.com/@leehack",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/leehack/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "e53d52a7-efbb-4763-923a-4be89a4f85c0",
+    "firstName": "Joonas",
+    "lastName": "Kerttula",
+    "fullName": "Joonas Kerttula",
+    "bio": "Joonas Kerttula is a Lead Developer at Rebel App Studio by Codemate, with nearly two decades of experience crafting software solutions. He has contributed to multiple open-source Flutter plugins, notably google_navigation_flutter and google_maps_flutter. Joonas specializes in plugin architecture and native integration, with a strong focus on maintainable APIs, testability, and long-term plugin quality.",
+    "tagLine": "Lead Developer at Rebel App Studio by Codemate",
+    "profilePicture": "https://sessionize.com/image/0233-400o400o1-V9SvKgfNaoHyn1L8hoSEYH.png",
+    "sessions": [
+      {
+        "id": 905484,
+        "name": "Behind the Plugin: Building Google Maps Navigation for Flutter"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://x.com/jokerttu",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/joonaskerttula",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "61e4c3b0-11a9-48a6-8ff5-e4ab799e99e7",
+    "firstName": "Jordan",
+    "lastName": "Nnabugwu",
+    "fullName": "Jordan Nnabugwu",
+    "bio": "Jordan Nnabugwu is a Software Engineer III specializing in Flutter development at Very Good Ventures, with extensive experience in mobile application development across multiple organizations including Whisker and Open Food Facts. He has strong technical skills in Flutter, Dart, Python, TypeScript, GraphQL, and clean architecture principles. Jordan graduated from Morgan State University with a Bachelor of Science in Electrical Engineering and has demonstrated entrepreneurial initiative through developing several personal projects including an AI Asset Monitoring App, a Journal App, and an athlete alumni website, all built with Flutter.",
+    "tagLine": "Software Engineer III",
+    "profilePicture": "https://sessionize.com/image/a60a-400o400o1-YJm32L6EYhNWCRj1cdNtpQ.jpg",
+    "sessions": [
+      {
+        "id": 919177,
+        "name": "Server-Driven UI in Flutter"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://x.com/maadscientistj",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/jordan-nnabugwu/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "20cd144a-3678-4080-be15-ff3213cd1f87",
+    "firstName": "Juan Manuel",
+    "lastName": "Silveira",
+    "fullName": "Juan Manuel Silveira",
+    "bio": "Hey! My name is Juan Manuel Silveira. I'm a software engineer, currently working on GlobalComix as a Lead Flutter Engineer. I used to work on companies like CreateThrive and Very Good Ventures. I really enjoy sharing my knowledge with the Flutter community. I've participated as speaker in multiple Google Developer Group events, on FlutterConf LATAM 2023 and Fluttercon USA 2024.",
+    "tagLine": "Lead Flutter Engineer at GlobalComix",
+    "profilePicture": "https://sessionize.com/image/7f49-400o400o1-DSK8WAgtEY8AMmrgpqVVPr.jpg",
+    "sessions": [
+      {
+        "id": 920342,
+        "name": "From Math to Dynamic UIs: Applying Matrix4 Transformations in Flutter"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/juan-manuel-silveira-081813181/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "5ab6a293-ba1d-4a62-8e21-62b0a0542bcf",
+    "firstName": "Kali",
+    "lastName": "-",
+    "fullName": "Kali -",
+    "bio": "Kali is a Senior Flutter Engineer, proud member of the Flutteristas and long time Flutter enthusiast. ",
+    "tagLine": "Senior Flutter Engineer",
+    "profilePicture": "https://sessionize.com/image/f8c9-400o400o1-D5CnN5JkkQGgtJKgMmDh6i.jpg",
+    "sessions": [
+      {
+        "id": 882798,
+        "name": "Getting to know js_interop"
+      },
+      {
+        "id": 919727,
+        "name": "Flutteristas: Reimagining DEI"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/kali-nfn/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "3d8e60ac-eb48-48b1-bc6a-4b85a9463064",
+    "firstName": "Kevin",
+    "lastName": "Galligan",
+    "fullName": "Kevin Galligan",
+    "bio": "President of Touchlab. Have been coding Android since before the G1. We run the big Android meetup in NYC, and Droidcon NYC. Currently obsessed with platform convergence topics.\r\n",
+    "tagLine": "Touchlab President",
+    "profilePicture": "https://sessionize.com/image/9e35-400o400o1-WwJty53f1hsRrgWA6cLbLu.jpg",
+    "sessions": [
+      {
+        "id": 929315,
+        "name": "Cross-Platform Strategy for Engineering Leaders"
+      },
+      {
+        "id": 929314,
+        "name": "Software Engineering with GenAI - Beyond the Hype and Hyperbole"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://x.com/kpgalligan",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/kpgalligan/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "61145e92-56eb-489e-99da-6507a2dda4d0",
+    "firstName": "Lauren",
+    "lastName": "Darcey",
+    "fullName": "Lauren Darcey",
+    "bio": "Author of Android books",
+    "tagLine": "Android Platform/DevX ",
+    "profilePicture": "https://sessionize.com/image/ba40-400o400o1-NEamGrVSk4NgXbuN3ytXnK.jpg",
+    "sessions": [
+      {
+        "id": 929313,
+        "name": "Growing Pains: Scaling and Re-architecting Apps Under Fire"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/perlgurl/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "85cfe14e-aa75-419e-baa7-6c19e766abc7",
+    "firstName": "Lawrence",
+    "lastName": "Wisne",
+    "fullName": "Lawrence Wisne",
+    "bio": "Lawrence leads mobile engineering at Universal Destinations and Experiences, guiding the rollout and expansion of Flutter across multiple products and services in the company. He has had a recent focus on the launch of Epic Universe in Orlando, the the first major theme park to debut in the United States in 24 years.\r\n\r\nBefore that, Lawrence has led engineering teams at Google Deepmind and multiple startups backed by VCs such as a16z and Seqouia. He holds a MS in Computer Science from Stanford with a concentration in Artificial Intelligence.",
+    "tagLine": "Director, Mobile Engineering @ Universal Destinations and Experiences",
+    "profilePicture": "https://sessionize.com/image/8e3d-400o400o1-hCKfvXo23FesaNV9GAJFYe.jpg",
+    "sessions": [
+      {
+        "id": 924416,
+        "name": "Adopting Flutter at Scale: Challenges, Wins, and the Road Ahead at Universal"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/lwisne/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "57ab3fb5-834a-494e-ab64-b7f16e8362fe",
+    "firstName": "Leo",
+    "lastName": "Farias",
+    "fullName": "Leo Farias",
+    "bio": "Leo Farias is an interactive designer turned coder and entrepreneur with a unique perspective on human-computer interaction. His current focus is leading Bitwild, an innovations lab at Concepta Technologies, where he drives forward-thinking solutions at the intersection of design and technology. His background in design fuels his passion for UX and unified UI approaches, particularly in the Flutter ecosystem where he serves as a Google Developer Expert (GDE).",
+    "tagLine": "Hack to the Future! Flutter & Dart GDE |  Leading Bitwild @ Concepta",
+    "profilePicture": "https://sessionize.com/image/aebd-400o400o1-PEx7aAV3ArQFD8shrpKtwq.jpeg",
+    "sessions": [
+      {
+        "id": 920198,
+        "name": "The Fleeting Interface: Ephemeral UIs That Learn, Adapt to Context and Usage Patterns, and Vanish"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://twitter.com/leoafarias",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/leofarias",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "8940b938-d09f-4a9b-bfbb-e3c9ad6cefa8",
+    "firstName": "Lucas",
+    "lastName": "Josefiak",
+    "fullName": "Lucas Josefiak",
+    "bio": "Co-Founder of the open-source flutter startup Widgetbook",
+    "tagLine": "CEO & Co-Founder - Widgetbook",
+    "profilePicture": "https://sessionize.com/image/70c2-400o400o1-Xo6qtaaVDDjTXUGKVzyPc.jpg",
+    "sessions": [
+      {
+        "id": 917229,
+        "name": "Simplify app development by building widgets in isolation"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://twitter.com/LucasJosefiak",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/lucasjosefiak/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "9f417db3-6a19-4831-a3b9-9005a2c56359",
+    "firstName": "Maneesh",
+    "lastName": "Tewani",
+    "fullName": "Maneesh Tewani",
+    "bio": "Maneesh is a Software Engineer at Firebase. He manages the Web and Flutter SDKs for Firebase Data Connect, as well as Firebase Real-Time Database",
+    "tagLine": "Software Engineer at Google",
+    "profilePicture": "https://sessionize.com/image/fd78-400o400o1-4CfUCjE1APWNEo45TB9qWd.jpg",
+    "sessions": [
+      {
+        "id": 919396,
+        "name": "Enhance the customer experience with Gemini, Flutter, and Firebase"
+      },
+      {
+        "id": 910084,
+        "name": "Generating Developer-Friendly SDKs with Firebase Data Connect"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/maneeshtewani/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "c802b2c3-51c3-4ea7-83b4-45becadcc80d",
+    "firstName": "Maria",
+    "lastName": "Mathew",
+    "fullName": "Maria Mathew",
+    "bio": "After transitioning from software engineer to app developer two years ago, Maria co-leads the app development at a cybersecurity startup, Allthenticate, helping lead the charge on passworldless technology.",
+    "tagLine": "Lead Engineer, Allthenticate Inc.",
+    "profilePicture": "https://sessionize.com/image/508f-400o400o1-472S6mykbk9H7i3azMYScW.png",
+    "sessions": [
+      {
+        "id": 920323,
+        "name": "Mastering Dart Isolates: Custom Entrypoints for Smarter Background Processing"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/maria-s-mathew/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "0a11f33f-1478-4879-8bdb-ef5a09091815",
+    "firstName": "Martino",
+    "lastName": "Yovo",
+    "fullName": "Martino Yovo",
+    "bio": "Martino is a Product Engineer on the ArcGIS Maps SDKs for Native Apps Team at Esri. With a foundation in Physics, he transitioned into a dynamic career in technology and has earned recognition as a Google Developer Expert in Flutter and Dart. Martino co-founded TDEV, a NGO that empowers African youth through digital skills and career development.",
+    "tagLine": "Product Engineer at Esri, Flutter/Dart GDE",
+    "profilePicture": "https://sessionize.com/image/a620-400o400o1-DVrF6jzmoKHy6UaU5LtajK.jpg",
+    "sessions": [
+      {
+        "id": 917021,
+        "name": "When Maps Think: Geotriggers & Spatial Awareness with ArcGIS Maps SDK for Flutter"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://x.com/martinoyovo",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/martino-yovo",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "8ce7eddf-451e-4dae-bcae-87085554d9e6",
+    "firstName": "Matt",
+    "lastName": "Carroll",
+    "fullName": "Matt Carroll",
+    "bio": "Matt is a Flutter developer, consultant, and educator. He worked on the Flutter team from 2018-2020. Today, Matt is dedicated to helping the world adopt Flutter.",
+    "tagLine": "Chief of the Flutter Bounty Hunters",
+    "profilePicture": "https://sessionize.com/image/d0ce-400o400o1-G12zvAK6R655QAmBkVT4ba.png",
+    "sessions": [
+      {
+        "id": 879605,
+        "name": "Flutter's Golden Age"
+      },
+      {
+        "id": 896414,
+        "name": "Multi-Platform Development with Native Feature Integration in Flutter"
+      },
+      {
+        "id": 879607,
+        "name": "How to build a desktop widget kit for Flutter apps"
+      }
+    ],
+    "isTopSpeaker": true,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://twitter.com/suprdeclarative",
+        "linkType": "Twitter"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "f3be6a07-bf07-4189-aa4b-477b1932b9ef",
+    "firstName": "Matthew",
+    "lastName": "Jones",
+    "fullName": "Matthew Jones",
+    "bio": "Matthew is a maker, artist, and Flutter developer based in Virginia Beach. He’s obsessed with “engineering optimism” at the intersection of technology and art. He’s been working with Flutter since 2018 for a variety of non-profit organizations and startups. His current passion is his new YouTube channel “Makerinator” where he shares his unique creations with the world!",
+    "tagLine": "Senior Mobile Application Developer at Alloya Corporate Federal Credit Union and Mad Scientist Flutter Hacker",
+    "profilePicture": "https://sessionize.com/image/d549-400o400o1-pvUpivUAfBgTmrsrGDUpXY.jpg",
+    "sessions": [
+      {
+        "id": 905695,
+        "name": "Flutter for Makers: Create Interactive Experiences Using Flutter, Arduino, Raspberry Pi, and more!"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://x.com/MatthewJones517",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/matthew-jones-86607b19a/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "b250bf50-bb1b-4a75-8312-8f7b74da0b85",
+    "firstName": "Mauricio",
+    "lastName": "Miguez",
+    "fullName": "Mauricio Miguez",
+    "bio": "Mauricio is an Uruguayan Software Engineer with a passion for learning and sharing development practices. He is a Senior Engineer at Very Good Ventures, where he has led numerous projects. With extensive experience in Flutter, Mauricio is dedicated to enhancing software quality and advancing industry standards.",
+    "tagLine": "Senior Engineer at Very Good Ventures | B.Sc. in Computer Science",
+    "profilePicture": "https://sessionize.com/image/7375-400o400o1-aoZ4kB8VX9yMdKAc2GUTPk.png",
+    "sessions": [
+      {
+        "id": 916520,
+        "name": "Mastering Scalable Theming for Custom Flutter Widgets"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/mauricio-miguez-b518a9140/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "6d54bc8e-1054-4f31-84f6-bc66397384db",
+    "firstName": "Miguel",
+    "lastName": "Ramos",
+    "fullName": "Miguel Ramos",
+    "bio": "Miguel Ramos is a Product Manager at Google, where he leads the development of the Firebase SDKs for Flutter, iOS, and Android (among other things). He has over 20 years of experience in the software development industry, and more than 12 years of experience as a Product Manager creating SDKs, frameworks, and tools for developers.",
+    "tagLine": "Product Manager for Firebase @Google",
+    "profilePicture": "https://sessionize.com/image/801d-400o400o1-PE78Jy8QPfRuRbbBfv4Gif.jpeg",
+    "sessions": [
+      {
+        "id": 919396,
+        "name": "Enhance the customer experience with Gemini, Flutter, and Firebase"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "Twitter",
+        "url": "https://x.com/marbtweeting",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/miguelrb/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "5ed520d4-242e-4d64-86fd-38ccd0da2d34",
+    "firstName": "Mikal",
+    "lastName": "Wessel",
+    "fullName": "Mikal Wessel",
+    "bio": "Mikal leads web & mobile product for Theme Parks @ Universal Destinations & Experiences. These products power the pre-trip, and during trip experiences that millions of people use monthly while planning and when coming to the parks. Universal recently transitioned their global mobile apps to Flutter and Mikal & team led the transition. Their journey was also a presentation at Google IO 2024.",
+    "tagLine": "Director, Global Product Management - Universal Destinations & Experiences",
+    "profilePicture": "https://sessionize.com/image/f334-400o400o1-piW8K3BNF2cXMHKqv5gsGH.jpg",
+    "sessions": [
+      {
+        "id": 924416,
+        "name": "Adopting Flutter at Scale: Challenges, Wins, and the Road Ahead at Universal"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/mikalangelo",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "fe593fd1-0c27-4484-a010-8786277d074e",
+    "firstName": "Mitchell",
+    "lastName": "Goodwin",
+    "fullName": "Mitchell Goodwin",
+    "bio": "I have been a part of the Flutter team and Google since 2022, mostly working on the Cupertino design library of the Flutter framework.",
+    "tagLine": "Software Engineer @ Flutter Team",
+    "profilePicture": "https://sessionize.com/image/35ac-400o400o1-PgdfEPpJMqznjGKz4s8tGL.jpg",
+    "sessions": [
+      {
+        "id": 920950,
+        "name": "Flutter Team Q&A"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "8cfdafe0-76d2-4111-93f5-d51f4b6c9c43",
+    "firstName": "Mrinal",
+    "lastName": "Jain",
+    "fullName": "Mrinal Jain",
+    "bio": "Mrinal Jain is a Software Developer with 10+ years of experience building scalable full-stack and Flutter applications. A recognized tech speaker and Meta Community Lead, he has led impactful developer communities and shared insights at major tech events. Known as the Introvert Influencer, Mrinal combines deep technical expertise with community-first leadership to empower developers and scale product success.\r\nhttps://mrinaljain.com",
+    "tagLine": "Lead Organiser - Flutter Indore| Tech Evangelist",
+    "profilePicture": "https://sessionize.com/image/7dfd-400o400o1-af6vCi3KGMzvEh5mXqGt4i.jpg",
+    "sessions": [
+      {
+        "id": 886115,
+        "name": "Build Spectacular  TV Apps with Flutter"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://twitter.com/_mrinaljain",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/mrinaljain",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "54e42130-4a09-4ec0-a58d-d52b18014ec2",
+    "firstName": "Norbert",
+    "lastName": "Kozsir",
+    "fullName": "Norbert Kozsir",
+    "bio": "Norbert Kozsir is a talented Flutter developer with a passion for crafting intuitive and engaging user experiences. With several years of experience in the field, Norbert has honed his skills in creating robust and scalable applications for a wide range of industries. His expertise in Flutter and his ability to think outside the box make him a valuable asset to any development team. Norbert is known for his attention to detail and his commitment to delivering high-quality work. Whether he is working on a new project or improving an existing one, Norbert is always eager to find new ways to bring his projects to life. With his enthusiasm and drive, Norbert is sure to make a positive impact on any organization he works with.",
+    "tagLine": "Flutter Software Consultant & Developer",
+    "profilePicture": "https://sessionize.com/image/2b3a-400o400o1-DRgVUmphSoENQ9Dp5366sA.jpg",
+    "sessions": [
+      {
+        "id": 916842,
+        "name": "Vibe Coding with Flutter"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://twitter.com/norbertkozsir",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/norbert-kozsir-a26644134/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "20bd7c5d-9811-404c-befd-df22f8c48f9f",
+    "firstName": "Pooja",
+    "lastName": "Bhaumik",
+    "fullName": "Pooja Bhaumik",
+    "bio": "Pooja Bhaumik, a Google Developer Expert for Flutter, Developer Advocate at FlutterFlow, author & creator of Flutter Essential Training, an exclusive Linkedin Learning course. She’s currently building Anchor, a solo project management app for people who struggle with focus. She has spoken at over 20 conferences in the past 5+ years, including in-person international events like Fluttercon Berlin, Flutter Conf LATAM, and F3 Prague. She is also passionate about mentoring, especially women in STEM, and has participated in numerous panels on the subject.",
+    "tagLine": "Building Anchor for ADHD Devs | GDE (Flutter) | Developer Advocate",
+    "profilePicture": "https://sessionize.com/image/e978-400o400o1-SEzzsxeMgk2XobWGJ92jmc.png",
+    "sessions": [
+      {
+        "id": 901347,
+        "name": "Breaking Production So You Don’t Have To: Lessons from Building a Supabase Powered Flutter app"
+      }
+    ],
+    "isTopSpeaker": true,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://twitter.com/pooja_bhaumik",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/poojab26/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "924234a0-f198-4e4c-b10a-4902f9e01a7c",
+    "firstName": "Randal",
+    "lastName": "Schwartz",
+    "fullName": "Randal Schwartz",
+    "bio": "Randal Schwartz is a self-taught programmer, writer, trainer, and new media host with a passion for technology and creative pursuits.    \r\n\r\nThroughout his career, Randal has honed his skills in various programming languages, including Perl, Dart, and Flutter, and has become a recognized expert in the field. Notably, he has authored several influential books on Perl programming, including \"Programming Perl,\" \"Learning Perl,\" and \"Effective Perl Programming.”    \r\n\r\nHe is currently recognized as a Google Developer Expert in the areas of Dart and Flutter (one of 11 in the United States and 150 in the world).\r\n\r\nRandal's professional journey has taken him through diverse roles, from software developer and system administrator to consultant and technical writer. He has contributed his expertise to numerous organizations, including Stonehenge Consulting Services, Inc., O'Reilly & Associates, and TWiT.tv, where he hosted the popular show \"FLOSS Weekly.\"    \r\n\r\nBeyond his technical prowess, Randal is also a gifted communicator and educator. He has lectured at conferences, provided technical training, and shared his insights through magazine articles and online platforms.    \r\n\r\nRandal's unique blend of technical expertise, writing talent, and engaging personality has made him a sought-after speaker, author, and consultant in the tech industry. ",
+    "tagLine": "Google Developer Expert (Dart/Flutter)",
+    "profilePicture": "https://sessionize.com/image/36c9-400o400o1-LVanwcSbR2uM2UFmdp1WVL.jpg",
+    "sessions": [
+      {
+        "id": 914917,
+        "name": "Dart Exceptions: Best Practices"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://x.com/randalschwartz",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "http://www.linkedin.com/in/randalschwartz",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "4fdffa2b-ac3e-42b5-9a7a-828ae48dbb5b",
+    "firstName": "Robert",
+    "lastName": "Odrowaz-Sypniewski",
+    "fullName": "Robert Odrowaz-Sypniewski",
+    "bio": "Robert is a Flutter Developer at LeanCode a software house from Poland specializing in Flutter apps.",
+    "tagLine": "LeanCode, Flutter Developer",
+    "profilePicture": "https://sessionize.com/image/5248-400o400o1-VyWCCjnmtTJLBMpNyLVqCQ.jpg",
+    "sessions": [
+      {
+        "id": 918437,
+        "name": "Using Dart FFI for Compute-Heavy Tasks in Flutter Apps"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://twitter.com/RobertOdrowaz",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/robert-odrowaz/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "06e85890-e46f-4863-872e-1f6b03206ea4",
+    "firstName": "Roman",
+    "lastName": "Jaquez",
+    "fullName": "Roman Jaquez",
+    "bio": "Google Developer Expert in Flutter, Rive Ambassador, Software Engineer @ Philips, GDG Lawrence Lead Organizer",
+    "tagLine": "Flutter GDE, Rive Ambassador",
+    "profilePicture": "https://sessionize.com/image/633f-400o400o1-py1uRxibUyKTk1jNgK7uG8.jpeg",
+    "sessions": [
+      {
+        "id": 874028,
+        "name": "Rive: The Final Frontier of Graphics for Flutter Apps"
+      },
+      {
+        "id": 894923,
+        "name": "Flutter Best Practices: Widget Rebuilds & Animations & Complex UI Rendering"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "http://twitter.com/drcoderz",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/roman-jaquez-8941a424/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "57a74321-a7cd-46fc-80b5-fb54bef0b4ea",
+    "firstName": "Rona",
+    "lastName": "Kilmer",
+    "fullName": "Rona Kilmer",
+    "bio": "Rona Kilmer is a Senior Software Engineer at Ardley, where she builds with Flutter every day. Rona has been building websites and apps for over 20 years with various technologies. She started learning Flutter in 2018 when she cofounded Reddiyo, an endurance training platform built with Flutter.\r\n\r\nRona lives in Denver, Colorado where she enjoys hiking, biking, and generally all things outdoors.",
+    "tagLine": "Senior Flutter Developer at Ardley",
+    "profilePicture": "https://sessionize.com/image/ae56-400o400o1-DALfLzkCBuc44keCafHM1e.jpg",
+    "sessions": [
+      {
+        "id": 919727,
+        "name": "Flutteristas: Reimagining DEI"
+      },
+      {
+        "id": 929301,
+        "name": "Leadership vs. Management: Strategies to Help You Lead Effectively"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://twitter.com/rkunboxed",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/ronakilmer/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "3b286451-07e9-4715-8a2c-a8341de0d6ef",
+    "firstName": "Samantha",
+    "lastName": "O'Brien",
+    "fullName": "Samantha O'Brien",
+    "bio": "Samantha is a dedicated developer with a deep passion for mobile apps. With over 5 years of experience in Flutter, she has successfully published a variety of personal and professional multi-platform applications. Samantha currently serves as a Senior Engineer at Very Good Ventures, where she excels in delivering scalable, well tested code to clients. She is dedicated to fostering a culture of education and collaboration within her team, emphasizing continuous learning and growth.",
+    "tagLine": "Senior Engineer at Very Good Ventures",
+    "profilePicture": "https://sessionize.com/image/28c9-400o400o1-BXPTWiqndgEQJLfF8kmXKK.jpg",
+    "sessions": [
+      {
+        "id": 896414,
+        "name": "Multi-Platform Development with Native Feature Integration in Flutter"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/samantharoseobrien",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "c233c8c9-064f-4525-baa3-d043c40e9ee4",
+    "firstName": "Scott",
+    "lastName": "Stoll",
+    "fullName": "Scott Stoll",
+    "bio": "Scott is a long-time Flutter developer, since Alpha in 2017. He's spoken in the US and internationally in places like Calgary, Oslo, Stockholm, Droidcon London, and the Google Plex in Mountain View.\r\n\r\nHis community involvement includes being the owner of the Flutter Community Slack, creator and co-host of the weekly livestream #HumpDayQandA, and an organizer of GDG Cleveland. He's also secretly the real mastermind behind Pinky and the Brain's plan to take over the world.\r\n\r\nHe is a strong advocate for the adoption of Big/Black/Old dogs (BBO) and he has rescued multiple older Pitbulls who were severely abused or neglected.",
+    "tagLine": "Flutter Community / Good Dog Apps",
+    "profilePicture": "https://sessionize.com/image/9be7-400o400o1-929e38b3-2da1-482b-b87a-5834f6c855c7.jpg",
+    "sessions": [
+      {
+        "id": 925704,
+        "name": "Multi-Child Algorithm Deep Dive. The Flex, the flex, and the Flummoxed"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://twitter.com/scottstoll2017",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/scott-stoll-59722915a/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "d07d2745-08fa-41d3-8bb9-9c319f7a50fc",
+    "firstName": "Sergii",
+    "lastName": "Zhuk",
+    "fullName": "Sergii Zhuk",
+    "bio": "Android Developer since 2012;\r\nProAndroidDev.com since 2017;\r\nEngineering Manager since 2019.",
+    "tagLine": "Engineering Manager at Meta",
+    "profilePicture": "https://sessionize.com/image/b9e2-400o400o1-RhfvtRZX6Ny8ZbSQrw6HCR.jpg",
+    "sessions": [
+      {
+        "id": 929303,
+        "name": "Technical Debt: Strategies for Prioritization, Refactoring, and Keeping You Codebase Healthy"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://x.com/sergiizhuk",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/sergiizhuk/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "8719949e-4c60-4a6a-af85-f83beeb02081",
+    "firstName": "Seth",
+    "lastName": "Ladd",
+    "fullName": "Seth Ladd",
+    "bio": "Product Manager at Google for Flutter.",
+    "tagLine": "Product Manager, Google",
+    "profilePicture": "https://sessionize.com/image/d004-400o400o1-RJp5bQGrxhvFm5e8F5XYip.jpg",
+    "sessions": [
+      {
+        "id": 920950,
+        "name": "Flutter Team Q&A"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://x.com/sethladd",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/sethladd/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "53364df2-cfeb-4620-ade1-3678cf14b072",
+    "firstName": "Simon",
+    "lastName": "Binder",
+    "fullName": "Simon Binder",
+    "bio": "Simon is a software engineer with passion for databases and developer tooling in the Dart ecosystem. He maintains and contributes to widely-used open source libraries like Drift,  helping developers build reliable and scalable applications. Recently, he joined the PowerSync team, building tools for offline-first architectures and real-time data synchronization.",
+    "tagLine": "Creator of Drift, engineer working on PowerSync",
+    "profilePicture": "https://sessionize.com/image/f7c9-400o400o1-YDV76DaLtWRj5AbZKT9wUM.jpg",
+    "sessions": [
+      {
+        "id": 918069,
+        "name": "Adopting native assets for cross-platform FFI plugins"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "bc346296-9555-45d1-abde-8a05a51121c7",
+    "firstName": "Simon",
+    "lastName": "Lightfoot",
+    "fullName": "Simon Lightfoot",
+    "bio": "Simon has been developing apps for 22+ years, with a focus on Android the past 13 years. Working on such apps as the BBC News and TD Ameritrade, and many others. Deciding to setup his own App Development Agency in 2015.\r\n\r\nHis focus has been in Flutter the past 4 years. Over that time Simon has helped setup the Flutter Community and Flutter Study Group and has been advocating Flutter for much of that time.",
+    "tagLine": "Flutter Community Leader and CTO DevAngels London",
+    "profilePicture": "https://sessionize.com/image/5f85-400o400o1-e21741ef-1fab-4327-937c-a47736a3b4da.jpg",
+    "sessions": [
+      {
+        "id": 894923,
+        "name": "Flutter Best Practices: Widget Rebuilds & Animations & Complex UI Rendering"
+      }
+    ],
+    "isTopSpeaker": true,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://twitter.com/devangelslondon",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/simonlightfoot",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "dd2e4f4f-aeaf-424a-9a0f-d48bf2e917e7",
+    "firstName": "Sofía",
+    "lastName": "Rey",
+    "fullName": "Sofía Rey",
+    "bio": "Sofía is a Software Engineer at Very Good Ventures, based in Uruguay, with a background in Multimedia Design and over four years of Flutter experience. She blends her design knowledge with a passion for development to build high-quality, user-focused apps.\r\nAn active member of the Flutter community, she has spoken at events like GDG Uruguay and FlutterConf Latam. Sofía thrives on learning, sharing, and collaborating on creative solutions that push projects forward.",
+    "tagLine": "Software Engineer, Very Good Ventures",
+    "profilePicture": "https://sessionize.com/image/0dce-400o400o1-hMAzHGugeib4Qw22erhAnP.png",
+    "sessions": [
+      {
+        "id": 917312,
+        "name": "Mastering CustomPainter: Going Beyond Widgets in Flutter"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/sof%C3%ADa-rey-se/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "5ac9b5c3-4655-41c1-82d5-3861cbb5edad",
+    "firstName": "Stacy",
+    "lastName": "Devino",
+    "fullName": "Stacy Devino",
+    "bio": "Stacy is currently leading Android @StitchFix, an Intel Innovator, GDG Organizer, WTM Ambassador, WWC Evangelist, fmr. WTM North America Mentor, fmr. GDG Mentor, and fmr. GDE Android. She has worked on Android Applications down through to the Android OS and even developed IoT appliances from the ground up which are in use by companies like Apple and Amazon Her work has been featured on sites like Wired, Gizmodo, and Geek.com. Stacy is focused on leading projects and building teams that create rich media user experiences to drive engagement.",
+    "tagLine": "Principal Android @StitchFix",
+    "profilePicture": "https://sessionize.com/image/f68d-400o400o1-xpV7S9zm8L15KkPBk2wRG.jpg",
+    "sessions": [
+      {
+        "id": 929309,
+        "name": "Building a Strong Engineering Culture"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://x.com/DoesitPew",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/stacy-devino/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "265b1a56-e32c-459d-8580-6d0d4ed5fc63",
+    "firstName": "Sumayyah",
+    "lastName": "Ahmed",
+    "fullName": "Sumayyah Ahmed",
+    "bio": "Sumayyah has been building Android apps since 2013, and still loves it! She likes digging deep into how Android works, and how to keep production codebases flexible, scalable, and clean. In fact, she spends a lot of time building talks around those exact topics. She currently works at Square, leading engineering teams and thinking about architecture. ",
+    "tagLine": "Android Tech Lead at Square",
+    "profilePicture": "https://sessionize.com/image/38eb-400o400o1-7R8vHSnFQRi31PevbsXwL4.png",
+    "sessions": [
+      {
+        "id": 929312,
+        "name": "Handling Skill Specialization as an Engineering Leader"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://twitter.com/SumayyahAhmed13",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/sumayyah-ahmed/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "f5b4ee4f-d25b-4f33-b696-bfa2587c6ed1",
+    "firstName": "Thomas",
+    "lastName": "Belk",
+    "fullName": "Thomas Belk",
+    "bio": "An Android Architect and Manager for Capital One Mobile Enterprise.",
+    "tagLine": "Senior Manager, Master Mobile Developer at Capital One",
+    "profilePicture": "https://sessionize.com/image/1bdf-400o400o1-asjvbJJqchwLkf9Ehj5B1g.jpg",
+    "sessions": [
+      {
+        "id": 929310,
+        "name": "The DX Factor: From Developer Experience to Business Value"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/tom-belk-a129222a/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "fc13892c-50af-4cca-9725-ea6f6a2dc61b",
+    "firstName": "Thomas",
+    "lastName": "Burkhart",
+    "fullName": "Thomas Burkhart",
+    "bio": "Born 1971 Thomas Burkhart could be seen almost as a legacy system. Being almost 30 years in this industry led him to a lot of different technologies, like C++ with mfc, C#, microcontrollers in C and currently mobile App development with Flutter and Dart. \r\nWhat only view people know that he was also a professional magician and bakes his own bread.",
+    "tagLine": "Flutter GDE",
+    "profilePicture": "https://sessionize.com/image/2378-400o400o1-Rq7dLJ6GToWwcCUr7BMA3w.jpg",
+    "sessions": [
+      {
+        "id": 920424,
+        "name": "Avoiding the dogma - a plea for mutable objects"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://twitter.com/ThomasBurkhartB/",
+        "linkType": "Twitter"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "a321904a-aeb3-477c-8974-2ca17029834f",
+    "firstName": "Tom",
+    "lastName": "Arra",
+    "fullName": "Tom Arra",
+    "bio": "Tom Arra is a seasoned product and engineering leader with over 15 years of experience delivering high-impact mobile applications at scale. Currently at Shorebird, he plays a cross-functional role supporting Flutter developers with tools to ship faster and more reliably. Prior to Shorebird, Tom led product development at Very Good Ventures, where he helped scale the global Flutter consultancy’s operations and drove strategic initiatives including toolchain innovation and software development process improvement.\r\n\r\nTom’s background includes leadership roles at BMW Technology Corporation, where he was part of the team which launched and scaled the MyBMW/MINI mobile apps across global markets using Flutter. He also brings product and engineering experience from Microsoft and Nokia.\r\n\r\nTom is passionate about helping teams build better software through the right mix of process, tooling, and user-focused design.",
+    "tagLine": "Founding Operations Lead at Shorebird",
+    "profilePicture": "https://sessionize.com/image/d6a2-400o400o1-HLrKapRq5SYk21dv3uJW3D.jpg",
+    "sessions": [
+      {
+        "id": 937056,
+        "name": "Flutter Best Practices: State Management & Scalability"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://x.com/tom_arra",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/tomarra/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "c7af31a2-09f7-4f4a-bc25-39473a6040b3",
+    "firstName": "Trevor",
+    "lastName": "Davis",
+    "fullName": "Trevor Davis",
+    "bio": "Trevor Davis has been wrangling widgets and taming asynchronous code in Flutter and Dart since 2019. After leading many greenfield projects, he led the first adoption of Flutter for a native migration at Johnson & Johnson. He's passionate about sharing the lessons learned from these projects, and when not behind the computer, you can find him hanging off a mountain in southern Utah.",
+    "tagLine": "Senior Engineer - Very Good Ventures",
+    "profilePicture": "https://sessionize.com/image/eb76-400o400o1-D7Z5FXgLbtja2UBTnzQKuK.jpg",
+    "sessions": [
+      {
+        "id": 937056,
+        "name": "Flutter Best Practices: State Management & Scalability"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/t-davis/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "855b163e-0ea0-4988-ad9e-b81aeed6246e",
+    "firstName": "Ty",
+    "lastName": "Smith",
+    "fullName": "Ty Smith",
+    "bio": "Ty is a Principal Engineer at Uber in Platform engineering and is the chairman of Uber's Open-Source program. He's focused on developer productivity and strives to help engineers ship fast high-quality products. He has a passion for AI, dev tools, frameworks, mobile apps, and open-source. He co-chairs the Mobile Native Foundation and is a Google Developer Expert for Android and Kotlin. He gives regular conference presentations, works on open-source, writes, and organizes community events. He is an angel investor, startup advisor, and a limited partner in several venture capital groups. Ty has been at Uber for 8 years and prior he worked at Twitter as a lead on Fabric developer tools, Evernote, cofounded a startup, and worked at a variety of smaller startups and consulting firms",
+    "tagLine": "Principal Engineer at Uber, Platform Engineering",
+    "profilePicture": "https://sessionize.com/image/605f-400o400o1-LCXYJSELDdPBFTbnSE4Vvb.jpg",
+    "sessions": [
+      {
+        "id": 929307,
+        "name": "AI-Driven Developer Productivity at Scale"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://x.com/tsmith",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/tyvsmith/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "134eb426-1e2f-46f2-bca4-48492bfab1c7",
+    "firstName": "Valentina",
+    "lastName": "Llavayol",
+    "fullName": "Valentina Llavayol",
+    "bio": "Hi! I'm Valentina Llavayol, a Software Engineer from Uruguay and currently a Senior Flutter Engineer at GlobalComix, a Flutter-powered comic reader application. Before diving into the world of digital comics, I was part of the fantastic team at Very Good Ventures. I genuinely enjoy being a part of the Flutter community and am always eager to help others and share what I've learned. I have previously presented at community events, such as FlutterCon USA 2024. Excited to connect with fellow developers and learn together!",
+    "tagLine": "Senior Flutter Engineer at GlobalComix",
+    "profilePicture": "https://sessionize.com/image/8273-400o400o1-YhX8tJH4YVVRncz83jRrgJ.png",
+    "sessions": [
+      {
+        "id": 920342,
+        "name": "From Math to Dynamic UIs: Applying Matrix4 Transformations in Flutter"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/valentina-llavayol/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "c01c1ec6-d26e-496e-8378-e56dd26c1388",
+    "firstName": "Viktor",
+    "lastName": "Lidholt",
+    "fullName": "Viktor Lidholt",
+    "bio": "With a master’s in computer science and more than 20 years of industry experience, Viktor has a solid background in software engineering. Before starting his own venture, he worked at Google’s Flutter team in Silicon Valley. He has held talks and taught guest lectures on programming, app creation, and computer graphics at international conferences and universities such as MIT, Carnegie Mellon, and UC Berkeley.",
+    "tagLine": "Founder of Serverpod",
+    "profilePicture": "https://sessionize.com/image/5c0d-400o400o1-PA1btZ84smnw2Quy3bQvJQ.jpg",
+    "sessions": [
+      {
+        "id": 893742,
+        "name": "Contributing to the Flutter Ecosystem: Open Source & Community Growth"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [
+      {
+        "title": "X (Twitter)",
+        "url": "https://twitter.com/viktorlidholt",
+        "linkType": "Twitter"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/viktorlidholt/",
+        "linkType": "LinkedIn"
+      }
+    ],
+    "questionAnswers": [],
+    "categories": []
+  }
+]
